@@ -1,5 +1,7 @@
--- Problem: Recyclable and Low Fat Products
+-- Problem No: 1757
+-- Problem Name: Recyclable and Low Fat Products
 -- Platform: LeetCode
+-- Difficulty: Easy
 
 SELECT product_id
 FROM Products
