@@ -1,2 +1,2 @@
-# SQL-Practice-CodeChef
+# SQL-Practice
 My daily SQL practice problems .
